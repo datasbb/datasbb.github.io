@@ -3,7 +3,7 @@ title: "Data Analysis"
 layout: category
 permalink: /categories/categories3/
 author_profile: true
-taxonomy: Categories3
+taxonomy: Data Analysis
 sidebar:
   nav: "categories"
 ---

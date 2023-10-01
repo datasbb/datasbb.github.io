@@ -1,9 +1,9 @@
 ---
-title: "Natural Language Processing"
+title: "NLP"
 layout: category
 permalink: /categories/categories5/
 author_profile: true
-taxonomy: Categories5
+taxonomy: NLP
 sidebar:
   nav: "categories"
 ---
