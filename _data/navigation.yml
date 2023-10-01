@@ -4,7 +4,7 @@ main:
     url: https://datasbb.github.io/
 
   - title: "About"
-    url: /about/
+    url: /about_me/
 
   - title: "GitHub"
     url: https://github.com/datasbb
@@ -26,5 +26,5 @@ categories:
     url: /categories/categories3/
   - title: "Computer Vision"
     url: /categories/categories4/
-  - title: "NLP"
+  - title: "Natural Language Processing"
     url: /categories/categories5/
