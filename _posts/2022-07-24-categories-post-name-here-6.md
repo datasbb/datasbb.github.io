@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /categories6/post-name-here-6/
+permalink: /etc/post-name-here-6/
 
 toc: true
 toc_sticky: true
