@@ -35,7 +35,7 @@ repository: "github-account/github-account.github.io" # GitHub Repo 이름
 # Site Author (Home에서 해당 내용은 숨김 상태)
 author:
   name: "your name here" # 블로그 닉네임
-  avatar: "/assets/images/meee.png" # 블로그 프로필 사진
+  avatar: "/assets/images/cs_p.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
   # email            : "youremailhere@xxxxxx.com"
