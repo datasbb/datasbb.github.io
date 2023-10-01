@@ -7,7 +7,7 @@ comments: false
 
 
 <div>
-    <img src="/assets/images/profile.jpg" alt="about_me" width="40%" min-width="400px" itemprop="image">
+    <img src="/assets/images/cs_hh.jpg" alt="about_me" width="40%" min-width="400px" itemprop="image">
 </div>
 ## 안녕하세요. 👋🏻
 3년차 데이터 사이언티스트(데이터분석가) Bobs 입니다. <br>
