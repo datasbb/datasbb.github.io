@@ -1,5 +1,5 @@
 ---
-title: "Categories4"
+title: "Computer Vision"
 layout: category
 permalink: /categories/categories4/
 author_profile: true
