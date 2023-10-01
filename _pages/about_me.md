@@ -10,7 +10,7 @@ comments: false
     <img src="/assets/images/cs_hh.png" alt="about_me" width="40%" min-width="400px" itemprop="image">
 </div>
 
-Categories:
+**Categories:**
  - AI 관련 논문 (LLM, NLP, CV, ...)
  - Python (pandas, numpy, code 위주 + github 정리)
  - 데이터 분석 (개념, 시각화)
