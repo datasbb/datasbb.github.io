@@ -5,7 +5,7 @@ excerpt: "오픈 AI 개발, 멀티모달 입력을 지원하는 GPT-4 모델 기
 categories:
   - Paper
 tags:
-  - [llm, Generative AI]
+  - [Paper, llm, Generative AI]
 
 permalink: /paper/gpt4-tech-report
 
