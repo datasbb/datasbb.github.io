@@ -7,7 +7,7 @@ comments: false
 
 
 <div>
-    <img src="/assets/images/cs_hh.png" alt="about_meee" width="70%" min-width="700px" itemprop="image">
+    <img src="/assets/images/cs_hh.png" alt="about_meee" width="40%" min-width="400px" itemprop="image">
 </div>
 
 
