@@ -4,7 +4,7 @@ main:
     url: https://datasbb.github.io/
 
   - title: "About"
-    url: /about/
+    url: /about_b/
 
   - title: "GitHub"
     url: https://github.com/datasbb
@@ -18,13 +18,13 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
+  - title: "Paper"
     url: /categories/categories1/
-  - title: "Categories2"
+  - title: "Python"
     url: /categories/categories2/
-  - title: "Categories3"
+  - title: "Data Analysis"
     url: /categories/categories3/
-  - title: "Categories4"
+  - title: "Computer Vision"
     url: /categories/categories4/
-  - title: "Categories5"
+  - title: "NLP"
     url: /categories/categories5/
