@@ -1,7 +1,7 @@
 ---
 title: "Paper"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/paper/
 author_profile: true
 taxonomy: Paper
 sidebar:

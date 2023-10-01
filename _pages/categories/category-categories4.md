@@ -1,7 +1,7 @@
 ---
 title: "Computer Vision"
 layout: category
-permalink: /categories/categories4/
+permalink: /categories/cv/
 author_profile: true
 taxonomy: Computer Vision
 sidebar:

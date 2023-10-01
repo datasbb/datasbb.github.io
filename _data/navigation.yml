@@ -19,12 +19,14 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Paper"
-    url: /categories/categories1/
+    url: /categories/paper/
   - title: "Python"
-    url: /categories/categories2/
+    url: /categories/python/
   - title: "Data Analysis"
-    url: /categories/categories3/
+    url: /categories/da/
   - title: "Computer Vision"
-    url: /categories/categories4/
+    url: /categories/cv/
   - title: "Natural Language Processing"
-    url: /categories/categories5/
+    url: /categories/nlp/
+  - title: "Etc"
+    url: /categories/etc/

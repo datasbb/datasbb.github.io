@@ -1,9 +1,9 @@
 ---
-title: "NLP"
+title: "Etc"
 layout: category
-permalink: /categories/nlp/
+permalink: /categories/etc/
 author_profile: true
-taxonomy: NLP
+taxonomy: Etc
 sidebar:
   nav: "categories"
 ---
