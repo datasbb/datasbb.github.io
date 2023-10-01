@@ -1,6 +1,6 @@
 ---
 title: "Hi all! I'm Bobs👋🏻"
-permalink: /about_b/
+permalink: /about/
 layout: single
 comments: false
 ---
